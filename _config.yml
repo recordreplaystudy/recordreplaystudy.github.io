@@ -1,0 +1,6 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: "Why Can't You Mimic Me?! Exploring the Use of Android Record \& Replay Tools in Debugging"
+description: "Empirical study on using R&R tools to record and replay non-crashing failures, crashing bugs, and feature-based user scenarios"
