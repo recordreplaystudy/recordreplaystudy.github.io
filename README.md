@@ -13,3 +13,4 @@ We address this current gap in knowledge by conducting a thorough empirical stud
 ![Figure 3: Breakdown of failed cases in R&R process.](Figures/fig3.png?raw=true "Figure 3: Breakdown of failed cases in R&R process.")
 
 ## Data Availability
+Our data is available [here](https://drive.google.com/file/d/1fcRcWcjMVn06rHBJaDzc6ppNeOLEe0GI/view?usp=sharing).
